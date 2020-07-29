@@ -130,8 +130,8 @@ dmypy.json
 
 
 # input data and models
-input/
-models/
+input/*
+models/*
 
 
 # data files
@@ -139,3 +139,4 @@ models/
 *.h5
 *.pkl
 *.pth
+*.bin
